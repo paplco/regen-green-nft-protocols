@@ -1,9 +1,5 @@
-# regen-green-nft-protocols
-[Regen Bounty] tokenized carbon credit wrapped NFTs
-
-
 # The Regen Network Green NFT
-### (Re: [Regen Bounty] tokenized carbon credit wrapped NFTs)[https://gitcoin.co/issue/GreenNFT/GreenNFTs/3/100025306]
+### [Re: [Regen Bounty] tokenized carbon credit wrapped NFTs](https://gitcoin.co/issue/GreenNFT/GreenNFTs/3/100025306)
 ## Introduction
 This paper provides three approaches to using Regen technology, combined with NFT technology, to create an integrated system, which incentivizes the use of tokenized carbon credits to support meaningful and impactful ecological stewardship, and planetary regeneration.
 ## Assumptions
@@ -14,13 +10,14 @@ This paper provides three approaches to using Regen technology, combined with NF
 * RN will continuously provide an ample supply of tokenized eco credits to make available to Green NFT marketplace for purchasing.
 
 ## On what basis should we assume Green NFTs are needed?
-> A single NFT can involve many transactions. These include minting, bidding, cancelling, sales and transfer of ownership. If we were to break down the footprint by transaction type, we get:
-> Minting: 142 kWh, 83 KgCO2
-Bids: 41 kWh, 24 KgCO2
-Cancel Bid: 12 kWh, 7 KgCO2
-Sale: 87 kWh, 51 KgCO2
-Transfer of ownership: 52 kWh, 30 KgCO2
-This generally pushes the footprint of a single NFT into hundreds of kWh, and hundreds of KgCO2 emissions, and often higher. [source](https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed)
+> A single NFT can involve many transactions. 
+These include minting, bidding, cancelling, sales and transfer of ownership. If we were to break down the footprint by transaction type, we get:
+Minting: 142 kWh, 83 KgCO2.
+Bids: 41 kWh, 24 KgCO2.
+Cancel Bid: 12 kWh, 7 KgCO2.
+Sale: 87 kWh, 51 KgCO2.
+Transfer of ownership: 52 kWh, 30 KgCO2.
+This generally pushes the footprint of a single NFT into hundreds of kWh, and hundreds of KgCO2 emissions, and often higher. ([source](https://jisuartist.medium.com/debunking-everything-about-the-technology-ecological-impact-of-nfts-cryptoart-60ee09bd00ed))
 
 *0.211 metric tons of CO2 produced per NFT.* And that does not consider how many times its ownership may be transferred.
 
@@ -88,7 +85,7 @@ An artist could choose from a variety of good causes, impact organizations liste
 
 For NFT marketplaces, there could be an open API calculator that would give the current price to neutralize any NFT in its current state, based on its public ledger history.
 
-#### Wrapping
+#### # Wrapping
 
 The Wrapping Service would expose an API to query NFT transaction history on the blockchain explorer, and calculate the cost to neutralize the NFT.
 
@@ -105,7 +102,7 @@ The web app would use the Regen Green NFT API to query and submit transactions o
 
 In addition, the Regen Green NFT API would be public and open to query for verification and/or registration of NFTs by NFT marketplaces and owners.
 
-#### Registry
+#### # Registry
 
 RN Network would keep a registry of Green NFT Beneficiaries. The Green NFT purchaser can select the beneficiary of choice, or if left blank, RN would select the beneficiary organization, or put funds into the general pool.
 
