@@ -83,11 +83,9 @@ An artist could choose from a variety of good causes, impact organizations liste
 
 ### Method 3 - GNFT Wrapping & Registry Service
 
-For NFT marketplaces, there could be an open API calculator that would give the current price to neutralize any NFT in its current state, based on its public ledger history.
-
 #### # Wrapping
 
-The Wrapping Service would expose an API to query NFT transaction history on the blockchain explorer, and calculate the cost to neutralize the NFT.
+The Wrapping Service would expose an API to query NFT transaction history on the blockchain explorer, and calculate the cost to neutralize the NFT. 
 
 The Green NFT wrap could be applied any time: 
 * Time of creation (minting)
@@ -100,18 +98,18 @@ The wrapping service would be accessed through a Regen web app hosted at a locat
 
 The web app would use the Regen Green NFT API to query and submit transactions on behalf of the wallet / NFT holder.
 
-In addition, the Regen Green NFT API would be public and open to query for verification and/or registration of NFTs by NFT marketplaces and owners.
+In addition, the Regen Green NFT API would be public and open to query for verification and/or registration of NFTs by NFT marketplaces and owners. This API could include a rate limit with subscriptions businesses and large marketplaces.
 
 #### # Registry
 
-RN Network would keep a registry of Green NFT Beneficiaries. The Green NFT purchaser can select the beneficiary of choice, or if left blank, RN would select the beneficiary organization, or put funds into the general pool.
+RN Network would keep a registry of Green NFTs and their Beneficiaries. The Green NFT purchaser can select the beneficiary of choice, or if left blank, RN would select the beneficiary organization, or put funds into the general pool.
 
 Types of Beneficiary Organizations
 * Carbon Neutral action organizations
 * Social Impact organizations
 * Regeneration Projects
  
-##### A Regen Network Effect via Method 3
+##### A Regen Network Effect using Method 3
 
 Regen will list the beneficiary organizations, and this directory could list which art pieces are in circulation and which organizations are benefiting from them; the artist could be credited as well if so desired, thus incentivizing the “greening” of their art in order to achieve greater exposure.
 
