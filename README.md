@@ -47,15 +47,15 @@ While the approach of creating NFT alternatives could prove viable, and have man
 
 Why not first harness the strongest stream of energy, by providing an easy onramp for the ETH NFT market, which is already well underway, having reached a very high network effect.
 
-In addition, bridging in other communities with an onramp, would help bring awareness of REGEN to the ETH and blockchain services at large, and perhaps even inspire ETH developers to create a new standards beyond ERC-721, that would require a certified carbon neutralizing fund address to be baked into the smart contract the time of minting, and would need this fee paid to execute the transfer, just as gas is required (achieving the *Internally and Eternally Green NFT*).
+In addition, bridging in other communities with an onramp, would help bring awareness of REGEN to the ETH and blockchain services at large, and perhaps even inspire ETH developers to create a new standards beyond [ERC-721](https://eips.ethereum.org/EIPS/eip-721), that would require a certified carbon neutralizing fund address to be baked into the smart contract the time of minting, and would need this fee paid to execute the transfer, just as gas is required (achieving the *Internally and Eternally Green NFT*).
 
 ## Mechanisms for Green NFT Creation
 
 ### Possible Methods:
 
-*Bundling with NFT Purchases* - Allow GNFTs to be bundled alongside each NFT sale, within each NFT exchange/marketplace. 
-*Embed GNFT functionality into Smart Contracts* - the “green” functionality would exist within the NFT for the duration of its lifetime.
-*GNFT Registry & Wrapping Service* - a powerful and flexible solution that puts RN at the center of Green NFTs.
+* **Bundling with NFT Purchases** - Allow GNFTs to be bundled alongside each NFT sale, within each NFT exchange/marketplace. 
+* **Embed GNFT functionality into Smart Contracts** - the “green” functionality would exist within the NFT for the duration of its lifetime.
+* **GNFT Registry & Wrapping Service** - a powerful and flexible solution that puts RN at the center of Green NFTs.
 
 ### Method 1 - Bundling with NFT Purchases
 
